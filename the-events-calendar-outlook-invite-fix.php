@@ -6,11 +6,11 @@ Description:       This plugin fixes the import of calendar events from <a href=
 Version:           0.1.0
 Text Domain:       the-events-calendar-outlook-invite-fix
 Author:            Andy Fragen
-Author URI:        
+Author URI:        http://wp.me/p3OvSb-kF
 License:           GNU General Public License v2
 License URI:       http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 GitHub Plugin URI: https://github.com/afragen/the-events-calendar-outlook-import-fix
-GitHub Branch:     master
+GitHub Branch:     develop
 */
 
 add_filter( 'tribe_ical_properties', 'tribe_ical_outlook_modify', 10, 2 );
