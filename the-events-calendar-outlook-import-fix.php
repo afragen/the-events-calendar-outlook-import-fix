@@ -4,7 +4,6 @@ Plugin Name:       The Events Calendar Outlook Invite Fix
 Plugin URI:        https://github.com/afragen/the-events-calendar-outlook-invite-fix
 Description:       This plugin fixes the import of calendar events from <a href="http://wordpress.org/plugins/the-events-calendar/">The Events Calendar</a> to Outlook.
 Version:           1.0.0
-Text Domain:       the-events-calendar-outlook-invite-fix
 Author:            Andy Fragen
 Author URI:        http://wp.me/p3OvSb-kF
 License:           GNU General Public License v2
