@@ -31,7 +31,7 @@ You would only need this plugin if you use [The Events Calendar](https://wordpre
 
 = How can I help? =
 
-If you have ideas for improvements the code is up on [GitHub](https://github.com/afragen/the-events-calendar-outlook-invite-fix). Please feel free to fork it and submit a pull request against the develop branch.
+If you have ideas for improvements the code is up on [GitHub](https://github.com/afragen/the-events-calendar-outlook-import-fix). Please feel free to fork it and submit a pull request against the develop branch.
 
 == Changelog ==
 
