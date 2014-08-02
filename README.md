@@ -30,7 +30,6 @@ This section describes how to install the plugin and get it working.
 
 You would only need this plugin if you use [The Events Calendar](https://wordpress.org/plugins/the-events-calendar) and your users only use Outlook for their calendar app. If your users don't use Outlook then using this plugin may have deleterious effects when importing events into Google Calendar or Apple's Calendar.
 
-## Changelog ##
+### How can I help? ###
 
-### 1.0.0 ###
-* initial release
+Please feel free to fork it and submit a pull request against the develop branch.
