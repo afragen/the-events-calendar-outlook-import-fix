@@ -9,7 +9,7 @@ Author URI:        http://wp.me/p3OvSb-kF
 License:           GNU General Public License v2
 License URI:       http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 GitHub Plugin URI: https://github.com/afragen/the-events-calendar-outlook-import-fix
-GitHub Branch:     develop
+GitHub Branch:     master
 */
 
 add_filter( 'tribe_ical_properties', 'tribe_ical_outlook_modify', 10, 2 );
