@@ -35,6 +35,9 @@ If you have ideas for improvements the code is up on [GitHub](https://github.com
 
 == Changelog ==
 
+= 1.0.2 =
+* tested to 4.3
+
 = 1.0.1 =
 * tested to 4.1
 
