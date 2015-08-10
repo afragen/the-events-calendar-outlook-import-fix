@@ -4,7 +4,7 @@ Donate link: http://bit.ly/outlook-import-fix
 Tags: events, outlook, modern tribe, ical feed, icalendar
 Requires at least: 3.7
 Tested up to: 4.3
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
