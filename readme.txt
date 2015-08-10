@@ -3,7 +3,7 @@ Contributors: afragen
 Donate link: http://bit.ly/outlook-import-fix
 Tags: events, outlook, modern tribe, ical feed, icalendar
 Requires at least: 3.7
-Tested up to: 4.1
+Tested up to: 4.3
 Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -34,6 +34,9 @@ You would only need this plugin if you use [The Events Calendar](https://wordpre
 If you have ideas for improvements the code is up on [GitHub](https://github.com/afragen/the-events-calendar-outlook-import-fix). Please feel free to fork it and submit a pull request against the develop branch.
 
 == Changelog ==
+
+= 1.0.2 =
+* tested to 4.3
 
 = 1.0.1 =
 * tested to 4.1
