@@ -1,4 +1,8 @@
-####  1.0.3
+#### 1.0.4 / 2017-11-11
+* bump tested to
+* remove branch header
+
+#### 1.0.3
 * bump tested to
 
 #### 1.0.2
