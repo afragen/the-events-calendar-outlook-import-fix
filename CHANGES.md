@@ -1,3 +1,6 @@
+#### 1.0.5 / 2018-07-10
+* fix filter for only one parameter
+
 #### 1.0.4 / 2017-11-11
 * bump tested to
 * remove branch header
