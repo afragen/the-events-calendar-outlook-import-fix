@@ -14,13 +14,6 @@ Fix import of calendar events from The Events Calendar to Outlook.
 
 Unfortunately Outlook chokes and will create a new calendar when it sees this header instead of adding the event(s) to the default Outlook calendar. This plugin removes that header from the generated iCalendar file.
 
-## Installation ##
-
-This section describes how to install the plugin and get it working.
-
-1. Upload `the-events-calendar-outlook-import-fix` directory to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-
 ## Frequently Asked Questions ##
 
 ### Why would I need this? ###
