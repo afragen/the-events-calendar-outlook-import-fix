@@ -3,6 +3,7 @@
 * **Donate link:** <http://bit.ly/outlook-import-fix>
 * **Tags:** events, outlook, modern tribe, ical feed, icalendar
 * **Requires at least:** 3.7
+* **Requires PHP:** 5.3
 * **License:** GPLv2 or later
 * **License URI:** <http://www.gnu.org/licenses/gpl-2.0.html>
 
