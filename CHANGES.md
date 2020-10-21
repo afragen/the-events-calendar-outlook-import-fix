@@ -1,3 +1,6 @@
+[ unreleased ]
+* add `X-MS-OLK-FORCEINSPECTOROPEN:TRUE` to ics instead of removing `X-WR-CALNAME`
+
 #### 1.0.5 / 2018-07-10
 * fix filter for only one parameter
 
