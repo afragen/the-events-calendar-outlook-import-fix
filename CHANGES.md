@@ -1,5 +1,8 @@
 [ unreleased ]
+
+#### 1.0.6 / 2020-11-26
 * add `X-MS-OLK-FORCEINSPECTOROPEN:TRUE` to ics instead of removing `X-WR-CALNAME` - only works for single events
+* no functional changes from previous version
 
 #### 1.0.5 / 2018-07-10
 * fix filter for only one parameter
