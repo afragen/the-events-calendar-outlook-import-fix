@@ -3,7 +3,7 @@ Contributors: afragen
 Donate link: http://bit.ly/outlook-import-fix
 Tags: events, outlook, modern tribe, ical feed, icalendar
 Requires at least: 3.7
-Tested up to: 5.5
+Tested up to: 5.6
 Stable tag: 1.0.5
 Requires PHP: 5.3
 License: GPLv2 or later
