@@ -3,9 +3,9 @@ Contributors: afragen
 Donate link: http://bit.ly/outlook-import-fix
 Tags: events, outlook, modern tribe, ical feed, icalendar
 Requires at least: 3.7
-Tested up to: 5.6
-Stable tag: 1.0.6
 Requires PHP: 5.3
+Stable tag: 1.1.0
+Tested up to: 5.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,25 +29,28 @@ If you have ideas for improvements the code is up on [GitHub](https://github.com
 
 == Changelog ==
 
-= 1.0.6 / 2020-11-26 =
+#### 1.1.0 / 2021-07-07
+* add @10up GitHub Actions for WordPress SVN
+
+#### 1.0.6 / 2020-11-26
 * add `X-MS-OLK-FORCEINSPECTOROPEN:TRUE` to ics instead of removing `X-WR-CALNAME` - only works for single events
 * no functional changes from previous version
 
-= 1.0.5 =
+#### 1.0.5 / 2018-07-10
 * fix filter for only one parameter
 
-= 1.0.4 =
+#### 1.0.4 / 2017-11-11
 * bump tested to
 * remove branch header
 
-= 1.0.3 =
-* update tested to
+#### 1.0.3
+* bump tested to
 
-= 1.0.2 =
+#### 1.0.2
 * tested to 4.3
 
-= 1.0.1 =
+#### 1.0.1
 * tested to 4.1
 
-= 1.0.0 =
+#### 1.0.0
 * initial release
