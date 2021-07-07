@@ -1,5 +1,6 @@
 [ unreleased ]
 
+* add @10up GitHub Actions for WordPress SVN
 #### 1.0.6 / 2020-11-26
 * add `X-MS-OLK-FORCEINSPECTOROPEN:TRUE` to ics instead of removing `X-WR-CALNAME` - only works for single events
 * no functional changes from previous version
